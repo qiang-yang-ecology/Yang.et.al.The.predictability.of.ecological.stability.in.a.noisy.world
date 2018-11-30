@@ -1,4 +1,6 @@
-This is the repository containing the R codes and data for Yang et al. 2018 NEE. For potential code questions please contact Qiang Yang by qiang.yang@uni-konstanz.de
+This is the repository containing the R codes and data for Yang et al. The predictability of ecological stability in a noisy world. Nature in Ecology & Evolution.  
+
+For potential code questions please contact Qiang Yang by qiang.yang@uni-konstanz.de
 
 Files in this foler include:
 
