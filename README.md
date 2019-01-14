@@ -4,7 +4,7 @@ For potential code questions please contact Qiang Yang by qiang.yang@uni-konstan
 
 Files in this foler include:
 
-1) R.codes.for.Yang.et.al.2018.NEE.html: R codes for reproducing the result and figure of the paper.
+1) R.codes.for.Yang.et.al.2019.NEE.html: R codes for reproducing the result and figure of the paper.
 
 2) foodweb.motif.png: the network structure of the food-web modules
 
