@@ -1,5 +1,5 @@
-This is the repository containing the R codes and data for the following paper.
-{Yang et al. 2019. The predictability of ecological stability in a noisy world. Nature in Ecology & Evolution.}  
+This is the repository containing the R codes and data for the following paper: https://doi.org/10.1038/s41559-018-0794-x.
+  
 
 For potential code questions please contact Qiang Yang by qiang.yang@uni-konstanz.de
 
